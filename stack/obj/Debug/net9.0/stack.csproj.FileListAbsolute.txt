@@ -1,0 +1,15 @@
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\bin\Debug\net9.0\stack.exe
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\bin\Debug\net9.0\stack.deps.json
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\bin\Debug\net9.0\stack.runtimeconfig.json
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\bin\Debug\net9.0\stack.dll
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\bin\Debug\net9.0\stack.pdb
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.AssemblyInfo.cs
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.sourcelink.json
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.dll
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\refint\stack.dll
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.pdb
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\stack\obj\Debug\net9.0\ref\stack.dll

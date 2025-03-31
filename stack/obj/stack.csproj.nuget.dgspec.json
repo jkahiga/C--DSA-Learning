@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj": {}
+    "c:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj": {
+    "c:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj",
+        "projectUniqueName": "c:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj",
         "projectName": "stack",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj",
+        "projectPath": "c:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\stack.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\obj\\",
+        "outputPath": "c:\\Users\\USER\\Desktop\\Misc\\books\\C# DSA Learning\\stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
