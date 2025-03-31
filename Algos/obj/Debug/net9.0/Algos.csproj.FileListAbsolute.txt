@@ -1,0 +1,5 @@
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\Algos\obj\Debug\net9.0\Algos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\Algos\obj\Debug\net9.0\Algos.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\Algos\obj\Debug\net9.0\Algos.AssemblyInfo.cs
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\Algos\obj\Debug\net9.0\Algos.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Misc\books\C# DSA Learning\Algos\obj\Debug\net9.0\Algos.sourcelink.json
