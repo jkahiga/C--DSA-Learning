@@ -1,4 +1,4 @@
-namespace ConsoleApp1;
+﻿namespace ConsoleApp1;
 
 using System;
 using System.Collections.Generic;
@@ -187,3 +187,4 @@ public class Class1
         }
     }
 }
+
